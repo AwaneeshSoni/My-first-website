@@ -1,0 +1,45 @@
+main{
+    background-color: hwb(0 78% 22%);
+}
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: #BFBFBF;
+  }
+p{
+    display: flex;
+    justify-content: center;
+    background-color: #BFBFBF;
+  }
+#imag-div{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+  }
+#image{
+    width: 80vw;
+    position : relative;
+    margin: auto;
+    height: auto;
+    max-width: 100%;
+   border-radius: 10px;
+    border: 60px solid white;
+  }
+img{
+    display: block;
+    background-color: rgb(255, 255, 255);
+  }
+figcaption{
+    display: flex;
+    justify-content: center;
+    color:  red;
+    font-size:larger;
+    text-decoration:wavy;
+    background-color: blue ;
+    background-size:contain;
+  }
+#tribute-info{
+    display: flex;
+    justify-content: center;
+    margin: 0px 25vw 0px 25vw;
+}
